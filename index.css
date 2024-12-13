@@ -6,7 +6,7 @@ body{
     display: flex;
     justify-content: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: black !important;
+   background-image: url("https://static.vecteezy.com/system/resources/previews/013/705/406/non_2x/abstract-modern-white-gray-diagonal-stripe-with-shadow-and-light-background-eps10-vector.jpg");
     backdrop-filter: blur(3px);
 
 }
@@ -21,7 +21,7 @@ body{
     text-align: center;
     box-shadow: 1px 1px 10px black;
     justify-content: center;
-    background-color: rgba(156, 156, 156, 0.144);
+    background-color: rgba(0, 0, 0, 0.694);
 
 }
 .container_img{
